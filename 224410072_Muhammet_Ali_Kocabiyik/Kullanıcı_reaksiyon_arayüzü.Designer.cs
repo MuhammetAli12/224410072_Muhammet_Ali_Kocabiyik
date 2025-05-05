@@ -162,9 +162,10 @@
             radioButton1.ForeColor = Color.Red;
             radioButton1.Location = new Point(177, 382);
             radioButton1.Name = "radioButton1";
-            radioButton1.Size = new Size(17, 16);
+            radioButton1.Size = new Size(38, 24);
             radioButton1.TabIndex = 21;
             radioButton1.TabStop = true;
+            radioButton1.Text = "₺";
             radioButton1.UseVisualStyleBackColor = true;
             // 
             // label6
@@ -174,20 +175,20 @@
             label6.ForeColor = Color.Red;
             label6.Location = new Point(12, 359);
             label6.Name = "label6";
-            label6.Size = new Size(150, 20);
+            label6.Size = new Size(80, 20);
             label6.TabIndex = 22;
-            label6.Text = "Gönderen Adı Soyadı";
+            label6.Text = "Para Birimi";
             // 
             // radioButton2
             // 
             radioButton2.AutoSize = true;
-            radioButton2.ForeColor = Color.DarkBlue;
+            radioButton2.ForeColor = Color.Green;
             radioButton2.Location = new Point(177, 421);
             radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(117, 24);
+            radioButton2.Size = new Size(38, 24);
             radioButton2.TabIndex = 23;
             radioButton2.TabStop = true;
-            radioButton2.Text = "radioButton2";
+            radioButton2.Text = "$";
             radioButton2.UseVisualStyleBackColor = true;
             // 
             // radioButton3
@@ -196,10 +197,10 @@
             radioButton3.ForeColor = Color.Gold;
             radioButton3.Location = new Point(177, 461);
             radioButton3.Name = "radioButton3";
-            radioButton3.Size = new Size(117, 24);
+            radioButton3.Size = new Size(38, 24);
             radioButton3.TabIndex = 24;
             radioButton3.TabStop = true;
-            radioButton3.Text = "radioButton3";
+            radioButton3.Text = "€";
             radioButton3.UseVisualStyleBackColor = true;
             // 
             // radioButton4
@@ -208,10 +209,10 @@
             radioButton4.ForeColor = Color.Purple;
             radioButton4.Location = new Point(177, 504);
             radioButton4.Name = "radioButton4";
-            radioButton4.Size = new Size(117, 24);
+            radioButton4.Size = new Size(38, 24);
             radioButton4.TabIndex = 25;
             radioButton4.TabStop = true;
-            radioButton4.Text = "radioButton4";
+            radioButton4.Text = "£";
             radioButton4.UseVisualStyleBackColor = true;
             // 
             // Kullanıcı_reaksiyon_arayüzü
