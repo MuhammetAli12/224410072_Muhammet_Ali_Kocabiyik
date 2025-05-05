@@ -181,7 +181,7 @@
             // radioButton2
             // 
             radioButton2.AutoSize = true;
-            radioButton2.ForeColor = Color.Green;
+            radioButton2.ForeColor = Color.DarkBlue;
             radioButton2.Location = new Point(177, 421);
             radioButton2.Name = "radioButton2";
             radioButton2.Size = new Size(117, 24);
