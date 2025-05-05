@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _224410072_Muhammet_Ali_Kocabiyik
+{
+    public partial class Kullanıcı_reaksiyon_arayüzü : Form
+    {
+        public Kullanıcı_reaksiyon_arayüzü()
+        {
+            InitializeComponent();
+        }
+
+        private void Kullanıcı_reaksiyon_arayüzü_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
